@@ -1,6 +1,6 @@
-[![MasterHead](https://arrayflaircom.files.wordpress.com/2021/06/bi-dashboard.gif)](https://mohamedhajja.io)
-<h1 align="center">Hi 👋, I'm Mohamed HAJJA</h1>
-<h3 align="center">Data Science student at Faculty of Sciences Semlalia Marrakech</h3>
+[![MasterHead](https://arrayflaircom.files.wordpress.com/2021/06/bi-dashboard.gif)]
+<h1 align="center">Hi 👋, I'm Abdessamade OUOMAR</h1>
+<h3 align="center">data scientist junior</h3>
 <img  border-radius= 2px align="right" alt="Coding" width="400" src="https://dist.neo4j.com/wp-content/uploads/20220112171158/data-science-3.gif">
 
 
@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning Data Science **Machine Learning, Deep learning, Business Intelligence ...**
 
-- 📫 How to reach me **mohamedhajja22@gmail.com**
+- 📫 How to reach me **ouomarabdessamad@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hajja-42135a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hajja-42135a217/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdessamade-ouomar-23a59a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdessamade-ouomar-23a59a217/" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Skills:</h2>
