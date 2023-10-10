@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhajja&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhajja" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhajja&label=Profile%20views&color=0e75b6&style=flat" alt="ouomarabdessamade" /> </p>
 
 - 🌱 I’m currently learning Data Science **Machine Learning, Deep learning, Business Intelligence ...**
 
