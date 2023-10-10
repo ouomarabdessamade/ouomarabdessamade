@@ -8,7 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhajja&label=Profile%20views&color=0e75b6&style=flat" alt="ouomarabdessamade" /> </p>
 
-- 🌱 I’m currently learning Data Science **Machine Learning, Deep learning, Business Intelligence ...**
+- 🚀 What I bring to the table:
+- Strong proficiency in data analysis, statistics, and data visualization.
+- Adept at implementing machine learning and deep learning techniques.
+- Developing Business Intelligence solutions to provide valuable insights.
+- Enthusiastic about collaborating on data science projects and continuous learning.
 
 - 📫 How to reach me **ouomarabdessamad@gmail.com**
 
