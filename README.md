@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhajja&label=Profile%20views&color=0e75b6&style=flat" alt="ouomarabdessamade" /> </p>
 
 - 🚀 What I bring to the table:
-- Strong proficiency in data analysis, statistics, and data visualization.
+- Strong proficiency in data Science, data Analysis, and data Visualization.
 - Adept at implementing machine learning and deep learning techniques.
 - Developing Business Intelligence solutions to provide valuable insights.
 - Enthusiastic about collaborating on data science projects and continuous learning.
@@ -73,4 +73,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouomarabdessamade&show_icons=true&locale=en" alt="mohamedhajja" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouomarabdessamade&show_icons=true&locale=en" alt="ouomarabdessamade" /></p>
