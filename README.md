@@ -1,6 +1,6 @@
 [![MasterHead](https://arrayflaircom.files.wordpress.com/2021/06/bi-dashboard.gif)]
 <h1 align="center">Hi 👋, I'm Abdessamade OUOMAR</h1>
-<h3 align="center">Data Scientist Junior</h3>
+<h3 align="center">Junior Data Scientist</h3>
 <img  border-radius= 2px align="right" alt="Coding" width="400" src="https://dist.neo4j.com/wp-content/uploads/20220112171158/data-science-3.gif">
 
 
